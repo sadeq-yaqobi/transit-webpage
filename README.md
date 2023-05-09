@@ -1,38 +1,44 @@
-# Transit - Web Page
+# Transit Webpage
 
 ![Transit preview image](assets/img/previwe-01.jpg "Transit Landing Page")
 ![Transit preview image](assets/img/previwe-02.jpg "Transit Landing Page")
 ![Transit preview image](assets/img/previwe-03.jpg "Transit Landing Page")
 ![Transit preview image](assets/img/previwe-04.jpg "Transit Landing Page")
 
-This is a simple landing page for a fictional transportation company called Transit. The page was created with HTML, CSS, and FontAwesome. It includes a header, main section with three subsections (services, about, and contact), and a footer.
+This project is a simple webpage created with HTML and CSS for a fictional transportation company called "Transit". The webpage provides basic information about the company's services and contact information.
 
 ## Getting Started
 
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+To view the webpage, simply open the `index.html` file in a web browser. The webpage is designed to be responsive and should adjust to different screen sizes.
 
-### Prerequisites
+## Usage
 
-A web browser such as Google Chrome, Mozilla Firefox, or Safari.
+The webpage provides the following sections:
 
-### Installing
+### Home
 
-1. Clone or download the project files to your local machine.
-2. Open the index.html file in your web browser to view the page.
+This section provides a brief introduction to Transit and some of its key features.
 
-## Built With
+### Services
 
-- HTML
-- CSS
-- FontAwesome
+This section lists the different transportation services offered by Transit, including taxi, bus, and train services.
 
-## Authors
+### About Us
 
-- Sadeq yaqoobi - Initial work
-- [My Profile](https://github.com/sadeq-yaqobi  'sadeq-yaqobi') 
+This section provides some information about the history and values of Transit.
+
+### Contact
+
+This section provides contact information for Transit, including an email address and phone number.
+
+## Contributing
+
+This is a simple project created for educational purposes, and contributions are not necessary. However, if you would like to suggest improvements or report issues, feel free to create an issue on the [GitHub repository](https://github.com/sadeq-yaqobi/transit-webpage/issues).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/sadeq-yaqobi/transit-webpage/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
-- [FontAwesome](https://fontawesome.com 'fontawesome.com') - Icons used on the page
-- [Unsplash](https://unsplash.com 'unsplash.com') - Image used on the page
-- TEMPLATE - Design template used for the page
+This project was created as part of a web development course and was inspired by various transportation company websites.

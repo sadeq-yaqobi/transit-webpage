@@ -1,11 +1,7 @@
 # Transit Webpage
 
-![Transit preview image](assets/img/previwe-01.jpg "Transit Landing Page")
-![Transit preview image](assets/img/previwe-02.jpg "Transit Landing Page")
-![Transit preview image](assets/img/previwe-03.jpg "Transit Landing Page")
-![Transit preview image](assets/img/previwe-04.jpg "Transit Landing Page")
-
 This project is a simple webpage created with HTML and CSS for a fictional transportation company called "Transit". The webpage provides basic information about the company's services and contact information.
+Visit the transit webpage [here](https://sadeq-yaqobi.github.io/transit-webpage/).
 
 ## Getting Started
 
